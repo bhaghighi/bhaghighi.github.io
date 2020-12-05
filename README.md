@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bhaghighi/bhaghighi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Post-doctoral researcher at University of Pennsylvania. I am interested in developing simple and efficient machine learning algorithms that are broadly applicable across a range of problem domains including computer vision and medical imaging.
 
 ### Markdown
 
