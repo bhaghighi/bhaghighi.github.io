@@ -1,14 +1,14 @@
 ## Babak Haghighi 
 ##### bhaghighie@gmail.com
-```
+
 <p align="justify">
 I am a Post-doctoral researcher at University of Pennsylvania. I am interested in developing simple and efficient machine learning algorithms that are broadly applicable across a range of problem domains including computer vision and medical imaging.
 </p>
-```
+
 ### My Projects
 These are the projects I am working on...
 
-```
+
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
