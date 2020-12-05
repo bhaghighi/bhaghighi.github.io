@@ -6,10 +6,9 @@ I am a Post-doctoral researcher at University of Pennsylvania. I am interested i
 </p>
 
 ### My Projects
-Currently, I am highlighting...
 
 ```
-My current research focuses on: 
+Currently, I am highlighting...
 
 1. First
 2. Second
