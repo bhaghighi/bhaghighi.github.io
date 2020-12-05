@@ -6,20 +6,16 @@ I am a Post-doctoral researcher at University of Pennsylvania. I am interested i
 </p>
 
 ### My Projects
-These are the projects I am working on...
+Currently, I am highlighting...
 
 ```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. First
+2. Second
+2. Third
 
 **Bold** and _Italic_ and `Code` text
 
