@@ -1,5 +1,4 @@
 ## Welcome to GitHub Pages
-
 <p align="center">
 I am a Post-doctoral researcher at University of Pennsylvania. I am interested in developing simple and efficient machine learning algorithms that are broadly applicable across a range of problem domains including computer vision and medical imaging.
 </p>
