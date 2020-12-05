@@ -1,10 +1,10 @@
 ## Babak Haghighi 
 ##### bhaghighie@gmail.com
-
+```
 <p align="justify">
 I am a Post-doctoral researcher at University of Pennsylvania. I am interested in developing simple and efficient machine learning algorithms that are broadly applicable across a range of problem domains including computer vision and medical imaging.
 </p>
-
+```
 ### My Projects
 These are the projects I am working on...
 
