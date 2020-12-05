@@ -9,9 +9,7 @@ I am a Post-doctoral researcher at University of Pennsylvania. I am interested i
 Currently, I am highlighting...
 
 ```
-
-- Bulleted
-- List
+My current research focuses on: 
 
 1. First
 2. Second
@@ -22,6 +20,17 @@ Currently, I am highlighting...
 [Link](url) and ![Image](src)
 ```
 
+```
+My current research focuses on: 
+
+1. First
+2. Second
+2. Third
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 For more details see [My GitHub](https://github.com/bhaghighi/).
 
 
